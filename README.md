@@ -8,4 +8,4 @@ W3C(World Wide Web Consortium)에서 권고하는 웹에서 표준적으로 사�
 하이퍼 텍스트 마크업 언어(Hyper Text Markup Language)는 웹 페이지 표시를 위해 개발된 지배적인 마크업 언어다.
 
 # HTML 기본구조 #
-HTML문서는 크게 <!DOCTYPE>, <html>, <head>, <body> 로 구성됩니다. 위 구조에서 보면, <!DOCTYLE> 이 가장 최상단에 오며, 바로 아래 <html> 태그가 위치합니다. 그리고 <html> 은 다시 <head>와 <body>태그를 나란히 포함합니다.
+HTML문서는 크게 <!DOCTYPE>, < html >, < head >, < body > 로 구성됩니다. 위 구조에서 보면, <!DOCTYLE> 이 가장 최상단에 오며, 바로 아래 < html > 태그가 위치합니다. 그리고 < html > 은 다시 < head >와 < body >태그를 나란히 포함합니다.
